@@ -232,7 +232,7 @@ A bookmark index of useful tools, articles and cheat-sheets useful for various t
 * https://github.com/fkie-cad/cwe_checker ELF static analyser based on BAD (Intel/ARM/MIPS/PPC, +IDA/Ghidra
 * https://pyre-check.org/ Python lib for taint analysis via sinks.
 * https://github.com/security-code-scan/security-code-scan C# audit tool (like FindSecBugs for java).
-* https://gitlab.immunityinc.com/consultingresearch/code-graph-auditor-intellij-plugin Code-Graph-Auditor for IDEA (internal tool)
+* https://xxxx.immunityinc.com/consultingresearch/code-graph-auditor-intellij-plugin Code-Graph-Auditor for IDEA (internal tool)
 * https://semgrep.dev/ multi-language AST powered audit tool with easy to use rule syntax. (Good CodeQL alternative)
 
 ## Android/iOS audit tools & checklists:
