@@ -3,8 +3,7 @@
 A bookmark index of useful tools, articles and cheat-sheets useful for various types of projects.
 
 =====================
-
-# +Interesting writings and articles:+
+# Interesting writings and articles:
 
 ## WEB:
 
