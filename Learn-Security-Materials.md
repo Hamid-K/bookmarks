@@ -117,6 +117,7 @@
 **Hardware** :
 
 - [Hardware Security: A Hands-on Learning Approach](https://www.amazon.com/Hardware-Security-Hands-Learning-Approach-dp-0128124776/dp/0128124776/)
+- [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
 -
 
 **Radio / SDR:**
