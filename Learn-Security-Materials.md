@@ -121,6 +121,17 @@
 - [Practical IoT Hacking](https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis-ebook/dp/B085BVVSN6)
 -
 
+**Cloud** :
+
+- How to Hack Like a Ghost(https://www.amazon.com/dp/1718501269/)
+- Pentesting Azure Applications (https://www.amazon.com/Pentesting-Azure-Applications-Definitive-Deployments/dp/1593278632/)
+- Advanced Penetration Testing: Hacking Google Cloud Platform (GCP) (https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Platform/dp/B08P1H4KLZ)
+- Mastering Cloud Penetration Testing (https://www.amazon.com/Mastering-Cloud-Penetration-Testing-Sehgal/dp/1786461234)
+- AWS Penetration Testing (https://www.amazon.com/AWS-Penetration-Testing-Beginners-Metasploit/dp/1839216921)
+- Hands-On AWS Penetration Testing with Kali (https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux/dp/1789136725)
+- Penetration Testing Azure for Ethical Hackers (https://www.amazon.com/Penetration-Testing-Azure-Ethical-Hackers/dp/1839212934)
+- 
+
 **Radio / SDR:**
 
 - [Inside Radio](https://www.amazon.com/Inside-Radio-Qing-Yang/dp/9811084467/)
