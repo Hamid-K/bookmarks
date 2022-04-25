@@ -99,7 +99,7 @@
 - [Malware Data Science](https://www.amazon.com/Malware-Data-Science-Detection-Attribution-ebook/dp/B077X1V9SY/)
 - [Rootkits &amp; Bootkits](https://www.amazon.com/Rootkits-Bootkits-Reversing-Malware-Generation-ebook/dp/B07P8J5HZJ/)
 - [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware-ebook/dp/B00JUUZSQC/)
-- [The Art of Mas Malware: Analysis](https://taomm.org/vol1/)
+- [The Art of Mac Malware: Analysis](https://taomm.org/vol1/)
 -
 
 **Fuzzing:**
