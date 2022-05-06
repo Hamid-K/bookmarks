@@ -133,7 +133,7 @@
 - [AWS Penetration Testing](https://www.amazon.com/AWS-Penetration-Testing-Beginners-Metasploit/dp/1839216921)
 - [Hands-On AWS Penetration Testing with Kali](https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux/dp/1789136725)
 - [Penetration Testing Azure for Ethical Hackers](https://www.amazon.com/Penetration-Testing-Azure-Ethical-Hackers/dp/1839212934)
-- 
+- [Hacking Kubernets, Threat Driven Analysis](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736)
 
 **Radio / SDR:**
 
