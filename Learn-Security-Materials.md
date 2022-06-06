@@ -91,7 +91,7 @@
 - [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam-ebook/dp/B007032XZK/ref=pd_sim_351_3/132-4739914-1656761?_encoding=UTF8&amp;pd_rd_i=B007032XZK&amp;pd_rd_r=1a048edf-5ef5-4ccf-bd40-d04f2f57ffb3&amp;pd_rd_w=e437a&amp;pd_rd_wg=Myaz1&amp;pf_rd_p=bab57536-7c8f-4781-a8ed-3e270b9cd303&amp;pf_rd_r=ZC5VJ6NGVHJVN4BXY6JX&amp;psc=1&amp;refRID=ZC5VJ6NGVHJVN4BXY6JX)
 - [Reverse Engineering for Beginners ( great free reference)](https://beginners.re/)
 - [Best Assembly reference (free) book](http://www.plantation-productions.com/Webster/)
--
+- [Ghidra Software Reverse Engineering for Beginners](https://www.amazon.com/dp/1800207972/)
 
 **Malware** :
 
