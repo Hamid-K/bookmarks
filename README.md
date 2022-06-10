@@ -2,10 +2,10 @@
 
 A bookmark index of useful tools, articles and cheat-sheets useful for various types of projects.
 
-=====================
+
 # Interesting writings and articles:
 
-# Hamid's Bookmarks
+## Hamid's Bookmarks:
 
 ## WEB:
 
