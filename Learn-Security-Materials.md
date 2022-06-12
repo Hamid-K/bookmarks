@@ -77,6 +77,7 @@
 - [SCI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
 - [C Traps &amp; Pitfalls](http://literateprogramming.com/ctraps.pdf)
 - [http://c-faq.com/](http://c-faq.com/)
+- Vulnerabilities 1001: [C-Family Software Implementation Vulnerabilities](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-derived+2022_v1/about)
 - [https://owasp.org/www-community/Source\_Code\_Analysis\_Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list of ALL tools (most suck!)
 - FindSecurityBugs [Java Bugs Patterns](https://find-sec-bugs.github.io/bugs.htm)
 - Learn about [SemGrep](https://semgrep.dev/docs/getting-started/) and how to write queries for it!
