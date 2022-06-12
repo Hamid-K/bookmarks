@@ -78,6 +78,7 @@
 - [C Traps &amp; Pitfalls](http://literateprogramming.com/ctraps.pdf)
 - [http://c-faq.com/](http://c-faq.com/)
 - [https://owasp.org/www-community/Source\_Code\_Analysis\_Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list of ALL tools (most suck!)
+- FindSecurityBugs [Java Code Patterns](https://find-sec-bugs.github.io/bugs.htm)
 - Learn about [SemGrep](https://semgrep.dev/docs/getting-started/) and how to write queries for it!
 - Learn about [CodeQL](https://codeql.github.com/docs/codeql-cli/getting-started-with-the-codeql-cli/) and how to write queries for it!
 
