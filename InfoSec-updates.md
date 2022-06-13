@@ -14,6 +14,7 @@ https://news.ycombinator.com/ \
 https://www.reddit.com/r/netsec/ \
 https://www.reddit.com/r/hacking/ \
 https://www.reddit.com/r/Malware/ \
+https://tldrsec.com/ \
 \
 https://isc.sans.edu/ \
 https://isc.sans.edu/diaryarchive.html
