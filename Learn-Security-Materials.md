@@ -21,7 +21,7 @@
 - [\*OS Internals](http://newosxbook.com/index.php) [Mac/iOS] (Advanced, needs development skills, Reference book)
 - [**Computer Science fundamentals free courses**](https://github.com/ossu/computer-science) (Free online equivalent of CS bachelor degree!)
 - [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses#embedded-systems) (similar to above)
--
+- [BlackHat Rust](https://kerkour.com/black-hat-rust)
 
 **Basic Hacking/Pentest/Exploitation:**
 
