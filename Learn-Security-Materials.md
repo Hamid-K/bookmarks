@@ -1,5 +1,5 @@
 **Basic OS &amp; Networking:**
-
+- LPIC-1 [Jadi training materials](https://linux1st.com/)
 - [The Linux Command Line 2nd ed.](https://nostarch.com/tlcl2)
 - [**Linux Bible 10th Ed.**](https://www.amazon.com/Linux-Bible-Christopher-Negus-dp-1119578884/dp/1119578884/) **(Must-read for beginners as a reference book)**
 - [**Network+**](https://www.amazon.com/CompTIA-Network-Guide-Sixth-N10-006-dp-0071848223/dp/0071848223/) **Study guide. (Must-read for beginners.)**
