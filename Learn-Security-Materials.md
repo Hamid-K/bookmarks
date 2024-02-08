@@ -54,7 +54,7 @@
 - [Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications-ebook/dp/B006FZ3UNI/ref=sr_1_1?dchild=1&amp;keywords=tangled+web&amp;qid=1585825076&amp;s=books&amp;sr=1-1)
 - [Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks](https://www.amazon.com/Silence-Wire-Passive-Reconnaissance-Indirect-ebook/dp/B008FRNHVY/ref=pd_sim_351_2/132-4739914-1656761?_encoding=UTF8&amp;pd_rd_i=B008FRNHVY&amp;pd_rd_r=7af4ed8e-205e-4c4a-9c88-f6d6ed0eae98&amp;pd_rd_w=5vNYV&amp;pd_rd_wg=ovx5d&amp;pf_rd_p=bab57536-7c8f-4781-a8ed-3e270b9cd303&amp;pf_rd_r=K3DE7F4PF83RP6FJWBPH&amp;psc=1&amp;refRID=K3DE7F4PF83RP6FJWBPH)
 - [Real World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616/)
--
+-[Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/dp/1098143930)
 
 **Mobile (applications):**
 
@@ -103,7 +103,7 @@
 - [Rootkits &amp; Bootkits](https://www.amazon.com/Rootkits-Bootkits-Reversing-Malware-Generation-ebook/dp/B07P8J5HZJ/)
 - [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware-ebook/dp/B00JUUZSQC/)
 - [The Art of Mac Malware: Analysis](https://taomm.org/vol1/)
--
+- [Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems](https://www.amazon.com/dp/1718503342)
 
 **Fuzzing:**
 
@@ -137,6 +137,7 @@
 - [Hands-On AWS Penetration Testing with Kali](https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux/dp/1789136725)
 - [Penetration Testing Azure for Ethical Hackers](https://www.amazon.com/Penetration-Testing-Azure-Ethical-Hackers/dp/1839212934)
 - [Hacking Kubernets, Threat Driven Analysis](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736)
+- [Cloud Penetration Testing for Red Teamers: Learn how to effectively pentest AWS, Azure, and GCP applications(https://www.amazon.com/dp/1803248483)
 
 **Radio / SDR:**
 
