@@ -137,7 +137,8 @@
 - [Hands-On AWS Penetration Testing with Kali](https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux/dp/1789136725)
 - [Penetration Testing Azure for Ethical Hackers](https://www.amazon.com/Penetration-Testing-Azure-Ethical-Hackers/dp/1839212934)
 - [Hacking Kubernets, Threat Driven Analysis](https://www.amazon.com/Hacking-Kubernetes-Threat-Driven-Analysis-Defense/dp/1492081736)
-- [Cloud Penetration Testing for Red Teamers: Learn how to effectively pentest AWS, Azure, and GCP applications(https://www.amazon.com/dp/1803248483)
+- [Cloud Penetration Testing for Red Teamers: Learn how to effectively pentest AWS, Azure, and GCP applications](https://www.amazon.com/dp/1803248483)
+- [Building and Automating Penetration Testing Labs in the Cloud: Set up cost-effective hacking environments for learning cloud security on AWS, Azure, and GCP](https://www.amazon.com/Building-Automating-Penetration-Testing-Cloud/dp/1837632391)
 
 **Radio / SDR:**
 
