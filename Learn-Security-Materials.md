@@ -55,6 +55,7 @@
 - [Silence on the Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks](https://www.amazon.com/Silence-Wire-Passive-Reconnaissance-Indirect-ebook/dp/B008FRNHVY/ref=pd_sim_351_2/132-4739914-1656761?_encoding=UTF8&amp;pd_rd_i=B008FRNHVY&amp;pd_rd_r=7af4ed8e-205e-4c4a-9c88-f6d6ed0eae98&amp;pd_rd_w=5vNYV&amp;pd_rd_wg=ovx5d&amp;pf_rd_p=bab57536-7c8f-4781-a8ed-3e270b9cd303&amp;pf_rd_r=K3DE7F4PF83RP6FJWBPH&amp;psc=1&amp;refRID=K3DE7F4PF83RP6FJWBPH)
 - [Real World Bug Hunting](https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616/)
 -[Web Application Security: Exploitation and Countermeasures for Modern Web Applications](https://www.amazon.com/dp/1098143930)
+- [JavaScript For Hackers](https://leanpub.com/javascriptforhackers)
 
 **Mobile (applications):**
 
