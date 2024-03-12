@@ -6,6 +6,7 @@
 - [Security+](https://www.amazon.com/CompTIA-Security-Certification-Guide-SY0-601-dp-1260464008/dp/1260464008/) Study guide. Basic intro to security.
 - [MCSA Windows 10 Study Guide](https://www.amazon.com/dp/1119384966/)
 - [MCSA Networking With Win Server 2016](https://www.amazon.com/Exam-70-741-Networking-Windows-Server/dp/0735697426)
+- [Microsoft Security-101 Free Courses](https://github.com/microsoft/Security-101) ** Great source for learning basic but good-to-know theoretical topics
 
 **Basic Programming (for security): [Python recommended]**
 
