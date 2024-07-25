@@ -1,3 +1,8 @@
+** Free Online Courses & Classes **
+- Open Security Training(https://p.ost2.fyi/)
+- 
+
+
 **Basic OS &amp; Networking:**
 - LPIC-1 [Jadi training materials](https://linux1st.com/)
 - [The Linux Command Line 2nd ed.](https://nostarch.com/tlcl2)
