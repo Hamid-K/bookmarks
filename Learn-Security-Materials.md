@@ -1,5 +1,6 @@
 ** Free Online Courses & Classes **
-- Open Security Training(https://p.ost2.fyi/)
+- [Open Security Training](https://p.ost2.fyi/)
+- [EDX Index of free online Computer Science courses and programms](https://www.edx.org/learn/computer-science)
 - 
 
 
@@ -132,6 +133,7 @@
 - [Hardware Security: A Hands-on Learning Approach](https://www.amazon.com/Hardware-Security-Hands-Learning-Approach-dp-0128124776/dp/0128124776/)
 - [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
 - [Practical IoT Hacking](https://www.amazon.com/Practical-IoT-Hacking-Fotios-Chantzis-ebook/dp/B085BVVSN6)
+- [Hardware Hacking Methodology](https://github.com/koutto/hardware-hacking/tree/master)
 -
 
 **Cloud** :
