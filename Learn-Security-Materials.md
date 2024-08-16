@@ -103,6 +103,7 @@
 - [Reverse Engineering for Beginners ( great free reference)](https://beginners.re/)
 - [Best Assembly reference (free) book](http://www.plantation-productions.com/Webster/)
 - [Ghidra Software Reverse Engineering for Beginners](https://www.amazon.com/dp/1800207972/)
+- [Essential Skills for Aspiring Reverse Engineers](https://reverencecyber.com/decoding-the-craft-essential-skills-for-aspiring-reverse-engineers/)
 
 **Malware** :
 
