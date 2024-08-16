@@ -113,6 +113,7 @@
 - [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware-ebook/dp/B00JUUZSQC/)
 - [The Art of Mac Malware: Analysis](https://taomm.org/vol1/)
 - [Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems](https://www.amazon.com/dp/1718503342)
+- [Mastering Malware Analysis](https://www.amazon.com/Mastering-Malware-Analysis-practical-cybercrime/dp/1803240245/)
 
 **Fuzzing:**
 
