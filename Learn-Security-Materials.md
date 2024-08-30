@@ -140,6 +140,7 @@
 
 **Cloud** :
 
+- [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/)
 - [How to Hack Like a Ghost](https://www.amazon.com/dp/1718501269/)
 - [Pentesting Azure Applications](https://www.amazon.com/Pentesting-Azure-Applications-Definitive-Deployments/dp/1593278632/)
 - [Advanced Penetration Testing: Hacking Google Cloud Platform (GCP)](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Platform/dp/B08P1H4KLZ)
