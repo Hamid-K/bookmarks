@@ -72,6 +72,7 @@
 - [iOS Hackers Handbook](https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller-ebook/dp/B00888KNL2/ref=pd_sim_ebk_14_2/132-4739914-1656761?_encoding=UTF8&amp;pd_rd_i=B00888KNL2&amp;pd_rd_r=016875f9-bf64-4aae-8a21-2a34f792823b&amp;pd_rd_w=ousqy&amp;pd_rd_wg=BXMWR&amp;pf_rd_p=dc5f8131-4953-4e94-b701-14887e2f8999&amp;pf_rd_r=RE1XAMK6DS06W1BCY0PG&amp;psc=1&amp;refRID=RE1XAMK6DS06W1BCY0PG)
 - [Mobile Application Hackers Handbook](https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500/ref=dp_rm_img_1)
 - [FRIDA Handbook](https://learnfrida.info/) *must-read*
+- [Android Security free course](https://app.hextree.io/map/android)
 
 **Code Audit:**
 
