@@ -133,6 +133,8 @@
 - [Brandon Falk](https://twitter.com/gamozolabs) (Lots of podcasts and live sessions about advanced fuzzing)
 - [https://github.com/raminfp/the-art-of-fuzzing] (Ramin Farajpour's Fuzzing intro course notes)
 - [Fuzzing Against the Machine](https://www.amazon.com/Fuzzing-Against-Machine-Automate-vulnerability/dp/1804614971)
+- [The Fuzzing Book](https://www.fuzzingbook.org/)
+
 
 **Cryptography:**
 
