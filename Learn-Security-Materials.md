@@ -44,6 +44,7 @@
 - [The Hackers Playbook 3](https://www.amazon.co.uk/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/) (2018)
 - [Hands on Hacking](https://www.wiley.com/en-se/Hands+on+Hacking-p-9781119561453) (2020)
 - [The Shellcoder&#39;s Handbook](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X) (Old but gold. Exploitation techniques are obsolete. Gives insight)
+- [Windows Security Internals](https://www.amazon.com/dp/1718501986/)
 - [PwnCollege](https://pwn.college/) A series of good tutorials, videos and labs on basic reversing & exploitation
 
 **Network &amp; VoIP: [Most of these are old books, but protocols age well!]**
