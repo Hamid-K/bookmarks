@@ -126,7 +126,7 @@
 - [https://github.com/secfigo/Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) (list of fuzzing books, papers, resources)
 - [https://github.com/cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) (good academic papers list)
 - [Brandon Falk](https://twitter.com/gamozolabs) (Lots of podcasts and live sessions about advanced fuzzing)
--
+- [https://github.com/raminfp/the-art-of-fuzzing] (Ramin Farajpour's Fuzzing intro course notes)
 
 **Cryptography:**
 
