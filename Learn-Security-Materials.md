@@ -120,6 +120,9 @@
 - [The Art of Mac Malware: Analysis](https://taomm.org/vol1/)
 - [Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems](https://www.amazon.com/dp/1718503342)
 - [Mastering Malware Analysis](https://www.amazon.com/Mastering-Malware-Analysis-practical-cybercrime/dp/1803240245/)
+- [Evasive Malware](https://www.amazon.com/Evasive-Malware-Understanding-Deceptive-Self-Defending/dp/1718503261)
+- [Evading EDR](https://www.amazon.com/dp/1718503342)
+- [Practical Threat Detection Engineering](https://www.amazon.com/dp/1801076715/)
 
 **Fuzzing:**
 
