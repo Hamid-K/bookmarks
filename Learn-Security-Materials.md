@@ -22,6 +22,7 @@
 - [Shell Programming &amp; Bash Scripting](https://www.amazon.co.jp/-/en/Robert-Collins/dp/1540637700)
 - [Black Hat Go](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659)
 - [**Effective C**](https://www.amazon.com/Effective-Introduction-Professional-Robert-Seacord-ebook/dp/B0852NTB2H/) **(Great &amp; light book to start with C)**
+- [The C Programming Language](https://www.amazon.se/-/en/Brian-Kernighan/dp/0131103628)
 - [Gray Hat C#](https://www.amazon.com/Gray-Hat-Creating-Automating-Security/dp/1593277598/)
 - [**Violent Python**](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579) **(Not covering Python3)**
 - [Windows Internals Series](https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals) (Advanced, needs development skills. Reference book)
@@ -92,6 +93,8 @@
 - [ Recurity Labs Code Audit Training](https://code-audit-training.gitlab.io/)
 - Learn about [SemGrep](https://semgrep.dev/docs/getting-started/) and how to write queries for it!
 - Learn about [CodeQL](https://codeql.github.com/docs/codeql-cli/getting-started-with-the-codeql-cli/) and how to write queries for it!
+- [Secure Coding in C and C++](https://www.amazon.se/-/en/Robert-Seacord/dp/0321822137)
+- 
 
 **Reversing:**
 
