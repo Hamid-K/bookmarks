@@ -108,6 +108,7 @@
 - [Best Assembly reference (free) book](http://www.plantation-productions.com/Webster/)
 - [Ghidra Software Reverse Engineering for Beginners](https://www.amazon.com/dp/1800207972/)
 - [Essential Skills for Aspiring Reverse Engineers](https://reverencecyber.com/decoding-the-craft-essential-skills-for-aspiring-reverse-engineers/)
+- [ARM Assembnly Internals and Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306)
 
 **Malware** :
 
@@ -127,6 +128,7 @@
 - [https://github.com/cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) (good academic papers list)
 - [Brandon Falk](https://twitter.com/gamozolabs) (Lots of podcasts and live sessions about advanced fuzzing)
 - [https://github.com/raminfp/the-art-of-fuzzing] (Ramin Farajpour's Fuzzing intro course notes)
+- [Fuzzing Against the Machine](https://www.amazon.com/Fuzzing-Against-Machine-Automate-vulnerability/dp/1804614971)
 
 **Cryptography:**
 
