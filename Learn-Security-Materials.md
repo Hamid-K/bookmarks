@@ -1,3 +1,5 @@
+ [ویدیو آشنایی با مسیر ورود به دنیای امنیت سایبری](https://www.youtube.com/live/M6-ELr9FRNY)
+
 **Free Online Courses & Classes**
 - [Open Security Training](https://p.ost2.fyi/)
 - [EDX Index of free online Computer Science courses and programms](https://www.edx.org/learn/computer-science)
