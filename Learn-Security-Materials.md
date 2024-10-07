@@ -97,7 +97,7 @@
 - Learn about [SemGrep](https://semgrep.dev/docs/getting-started/) and how to write queries for it!
 - Learn about [CodeQL](https://codeql.github.com/docs/codeql-cli/getting-started-with-the-codeql-cli/) and how to write queries for it!
 - [Secure Coding in C and C++](https://www.amazon.se/-/en/Robert-Seacord/dp/0321822137)
-- 
+- [Secdium: Learn to find, test and fix security defects](https://learn.secdim.com/)
 
 **Reversing:**
 
