@@ -32,6 +32,9 @@
 - [**Computer Science fundamentals free courses**](https://github.com/ossu/computer-science) (Free online equivalent of CS bachelor degree!)
 - [https://github.com/Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses#embedded-systems) (similar to above)
 - [BlackHat Rust](https://kerkour.com/black-hat-rust)
+- [Rootkits: Subverting the Windows Kernel](https://www.amazon.de/Rootkits-Subverting-Addison-Wesley-Software-Security/dp/0321294319) (highly recommended to learn windows kernel and system programming)
+- [The Rootkit Arsenal Book by Bill Blunden](https://www.amazon.de/-/en/Rootkit-Arsenal-Escape-Evasion-Corners/dp/144962636X) (highly recommended to learn windows kernel and system programming)
+- [Windows Via C/C++](https://www.amazon.de/-/en/Windows-Via-C-Jeffrey-Richter/dp/0735663777) (highly recommended to learn windows kernel and system programming)
 
 **Basic Hacking/Pentest/Exploitation:**
 
@@ -48,6 +51,8 @@
 - [The Shellcoder&#39;s Handbook](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X) (Old but gold. Exploitation techniques are obsolete. Gives insight)
 - [Windows Security Internals](https://www.amazon.com/dp/1718501986/)
 - [PwnCollege](https://pwn.college/) A series of good tutorials, videos and labs on basic reversing & exploitation
+- [A Bug Hunter's Diary](https://www.amazon.com/Bug-Hunters-Diary-Software-Security/dp/1593273851)(highly recommended to learn Exploitation)
+- [A Guide to Kernel Exploitation: Attacking the Core](https://www.amazon.de/-/en/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860) (highly recommended to learn Exploitation)
 
 **Network &amp; VoIP: [Most of these are old books, but protocols age well!]**
 
