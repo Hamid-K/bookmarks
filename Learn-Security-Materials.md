@@ -141,6 +141,7 @@
 - [https://github.com/raminfp/the-art-of-fuzzing] (Ramin Farajpour's Fuzzing intro course notes)
 - [Fuzzing Against the Machine](https://www.amazon.com/Fuzzing-Against-Machine-Automate-vulnerability/dp/1804614971)
 - [The Fuzzing Book](https://www.fuzzingbook.org/)
+- [Fuzzing Pager (Collection of Fuzzing papers)](https://wcventure.github.io/FuzzingPaper/)
 
 
 **Cryptography:**
