@@ -35,7 +35,7 @@
 - [Rootkits: Subverting the Windows Kernel](https://www.amazon.de/Rootkits-Subverting-Addison-Wesley-Software-Security/dp/0321294319) (highly recommended to learn windows kernel and system programming)
 - [The Rootkit Arsenal Book by Bill Blunden](https://www.amazon.de/-/en/Rootkit-Arsenal-Escape-Evasion-Corners/dp/144962636X) (highly recommended to learn windows kernel and system programming)
 - [Windows Via C/C++](https://www.amazon.de/-/en/Windows-Via-C-Jeffrey-Richter/dp/0735663777) (highly recommended to learn windows kernel and system programming)
-- [From Day Zero to Zero Day](https://nostarch.com/zero-day) 
+- [From Day Zero to Zero Day](https://nostarch.com/zero-day) (Intro to vuln research, code review and fuzzing)
 
 **Basic Hacking/Pentest/Exploitation:**
 
