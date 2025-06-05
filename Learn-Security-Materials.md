@@ -100,9 +100,9 @@
 - [https://owasp.org/www-community/Source\_Code\_Analysis\_Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list of ALL tools (most suck!)
 - FindSecurityBugs [Java Bugs Patterns](https://find-sec-bugs.github.io/bugs.htm)
 - [ Recurity Labs Code Audit Training](https://code-audit-training.gitlab.io/)
-- ## Learn about [SemGrep](https://semgrep.dev/docs/getting-started/) and how to write queries for it.
-- ## Learn about [CodeQL](https://codeql.github.com/docs/codeql-cli/getting-started-with-the-codeql-cli/) and how to write queries for it.
-- ## Learn about [Joern](https://joern.io/) and how to write queries for it.
+-  **Learn about [SemGrep](https://semgrep.dev/docs/getting-started/) and how to write queries for it.**
+-  **Learn about [CodeQL](https://codeql.github.com/docs/codeql-cli/getting-started-with-the-codeql-cli/) and how to write queries for it.**
+-  **Learn about [Joern](https://joern.io/) and how to write queries for it.**
 - [Secure Coding in C and C++](https://www.amazon.se/-/en/Robert-Seacord/dp/0321822137)
 - [Secdium: Learn to find, test and fix security defects](https://learn.secdim.com/)
 
