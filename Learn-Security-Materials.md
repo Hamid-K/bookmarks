@@ -3,7 +3,7 @@
 **Free Online Courses & Classes**
 - [Open Security Training](https://p.ost2.fyi/)
 - [EDX Index of free online Computer Science courses and programms](https://www.edx.org/learn/computer-science)
-- 
+- [Pwn College](https://pwn.college/)
 
 
 **Basic OS &amp; Networking:**
