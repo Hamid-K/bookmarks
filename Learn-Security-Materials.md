@@ -54,6 +54,7 @@
 - [PwnCollege](https://pwn.college/) A series of good tutorials, videos and labs on basic reversing & exploitation
 - [A Bug Hunter's Diary](https://www.amazon.com/Bug-Hunters-Diary-Software-Security/dp/1593273851)(highly recommended to learn Exploitation)
 - [A Guide to Kernel Exploitation: Attacking the Core](https://www.amazon.de/-/en/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860) (highly recommended to learn Exploitation)
+- [Practical Purple Teaming](https://www.amazon.com/Practical-Purple-Teaming-Collaborative-Defense/dp/1718504284) (2024)
 
 **Network &amp; VoIP: [Most of these are old books, but protocols age well!]**
 
